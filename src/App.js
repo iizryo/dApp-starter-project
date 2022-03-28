@@ -186,7 +186,7 @@ const App = () => {
         )}
         {currentAccount && (
           <div className="bio">
-            相手に贈りたいメッセージと共に
+            メッセージと共に
             <span role="img" aria-label="hand-wave">
               👋
             </span>
